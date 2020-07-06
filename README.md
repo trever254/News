@@ -10,7 +10,7 @@
 <li>The user can select any news that he prefers to read</li>
 <li>The user can click on an article and read it fully from the news source</li>
 
-<h3>Specifications</h3>
+## Specifications
 | Behaviour | Input | Output |
 | :---------------- | :---------------: | ------------------: |
 | Display news sources | **On page load** | List of various news sources is displayed per category |
